@@ -1,0 +1,12 @@
+flask
+python-dotenv
+psycopg2-binary
+Flask-Migrate
+Flask-RESTx
+Flask-SQLAlchemy
+SQLAlchemy
+flask-cors
+flask_login
+flask_bcrypt
+flask_wtf
+reportlab
